@@ -41,10 +41,19 @@ The objective is to automatically identify tomato leaf diseases from images to s
 
 ---
 
-## Dataset
+## 📂 Dataset
 
-PlantVillage Dataset
+This project uses the **PlantVillage Dataset**, one of the most widely used benchmark datasets for plant disease classification.
 
+### Dataset Information
+
+- **Dataset Name:** PlantVillage
+- **Crop:** Tomato
+- **Number of Classes:** 10
+- **Image Type:** RGB Leaf Images
+- **Task:** Multi-class Image Classification
+
+The dataset contains healthy and diseased tomato leaf images used to train and evaluate the deep learning model.
 ---
 
 ## Model Performance
