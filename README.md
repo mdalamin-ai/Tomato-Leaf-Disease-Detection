@@ -79,6 +79,24 @@ The trained model is deployed using Gradio, allowing users to upload tomato leaf
 
 ![Training Loss](images/training-loss.png)
 
+---
+
+## 🏗️ System Architecture
+
+The overall architecture of the proposed deep learning system based on Transfer Learning using MobileNetV2.
+
+![System Architecture](images/system-architecture.png)
+
+---
+
+## 🔄 Workflow Diagram
+
+The workflow demonstrates the complete pipeline from image input to disease prediction.
+
+![Workflow Diagram](images/workflow-diagram.png)
+
+---
+
 ## Project Objectives
 
 - Detect tomato leaf diseases automatically
