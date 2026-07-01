@@ -46,6 +46,30 @@ PlantVillage Dataset
 
 ---
 
+## 🖥️ Gradio Web Interface
+
+The trained model is deployed using Gradio, allowing users to upload tomato leaf images and receive instant disease predictions.
+
+![Gradio Interface](images/gradio-interface.png)
+
+---
+
+## 🍅 Prediction Example
+
+![Prediction Example](images/prediction-example.png)
+
+---
+
+## 📈 Training Accuracy
+
+![Training Accuracy](images/training-accuracy.png)
+
+---
+
+## 📉 Training Loss
+
+![Training Loss](images/training-loss.png)
+
 ## Project Objectives
 
 - Detect tomato leaf diseases automatically
