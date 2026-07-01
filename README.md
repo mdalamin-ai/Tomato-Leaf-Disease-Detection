@@ -85,7 +85,7 @@ The trained model is deployed using Gradio, allowing users to upload tomato leaf
 
 The overall architecture of the proposed deep learning system based on Transfer Learning using MobileNetV2.
 
-![System Architecture](images/system-architecture.png)
+![System Architecture](images/system-architecture-flowchart.png)
 
 ---
 
