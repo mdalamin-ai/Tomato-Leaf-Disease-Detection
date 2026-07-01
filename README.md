@@ -1,4 +1,13 @@
 # Tomato Leaf Disease Detection using Deep Learning
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
+
+![Keras](https://img.shields.io/badge/Keras-Neural%20Network-red)
+
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-Transfer%20Learning-success)
+
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
