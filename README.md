@@ -162,6 +162,31 @@ pip install -r requirements.txt
 Launch the Jupyter Notebook or Google Colab notebook to train or evaluate the model.
 ---
 
+---
+
+# 📁 Project Structure
+
+```text
+Tomato-Leaf-Disease-Detection/
+│
+├── images/
+│   ├── gradio-app-interface.PNG
+│   ├── prediction-example-leaf.PNG
+│   ├── system-architecture-flowchart.png
+│   ├── training-accuracy.PNG
+│   ├── training-loss.png
+│   └── workflow-diagram.png
+│
+├── notebook/
+│   ├── README.md
+│   └── Tomato_Leaf_Disease_Detection.ipynb
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
 # 🚀 Future Improvements
 
 This project can be further improved by:
