@@ -213,6 +213,20 @@ This project was completed as part of my **Bachelor of Science in Computer Scien
 - Evaluate model performance on the PlantVillage dataset.
 - Build a user-friendly disease prediction interface using Gradio.
 
+- ---
+
+# 📄 Bachelor's Thesis
+
+This project was completed as part of my Bachelor of Science in Computer Science and Engineering (B.Sc. CSE) thesis.
+
+**Thesis Title:**
+*Tomato Leaf Disease Detection Using Deep Learning*
+
+📥 **Download the complete thesis here:**
+
+**[📄 Bachelor's Thesis (PDF)](docs/Tomato_Leaf_Disease_Detection_Thesis.pdf)**
+
+
 # 🚀 Future Improvements
 
 This project can be further improved by:
