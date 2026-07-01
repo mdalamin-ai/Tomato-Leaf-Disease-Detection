@@ -87,10 +87,23 @@ The trained model is deployed using Gradio, allowing users to upload tomato leaf
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **MD Alamin**
 
-B.Sc. in Computer Science and Engineering
+Bachelor of Science in Computer Science and Engineering (B.Sc. CSE)
 
-Bangladesh
+Atish Dipankar University of Science and Technology, Bangladesh
+
+### Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Transfer Learning
+- Agricultural AI
+
+### GitHub
+
+https://github.com/mdalamin-ai
