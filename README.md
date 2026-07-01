@@ -222,3 +222,13 @@ This project can be further improved by:
 - Deploying the model on cloud platforms.
 - Developing an Android application for farmers.
 - Improving prediction accuracy using advanced deep learning architectures.
+
+- ---
+
+# 🙏 Acknowledgements
+
+- PlantVillage Dataset
+- TensorFlow & Keras
+- Google Colab
+- Gradio
+- MobileNetV2 Transfer Learning Framework
