@@ -164,6 +164,15 @@ Launch the Jupyter Notebook or Google Colab notebook to train or evaluate the mo
 
 ---
 
+# ▶️ How to Use
+
+1. Clone this repository.
+2. Install the required Python libraries.
+3. Open the Jupyter Notebook in the `notebook` folder.
+4. Run the notebook step by step to train or evaluate the model.
+5. Launch the Gradio interface to test tomato leaf disease prediction using your own images.
+---
+
 # 📁 Project Structure
 
 ```text
