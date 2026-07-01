@@ -187,6 +187,23 @@ Tomato-Leaf-Disease-Detection/
 └── requirements.txt
 ```
 
+---
+
+# 🎓 Research Contribution
+
+This project was completed as part of my **Bachelor of Science in Computer Science and Engineering (B.Sc. CSE)** thesis at **Atish Dipankar University of Science and Technology, Bangladesh**.
+
+### Thesis Title
+
+**Tomato Leaf Disease Detection Using Deep Learning**
+
+### Research Objectives
+
+- Develop an automated tomato leaf disease detection system.
+- Apply Transfer Learning using MobileNetV2.
+- Evaluate model performance on the PlantVillage dataset.
+- Build a user-friendly disease prediction interface using Gradio.
+
 # 🚀 Future Improvements
 
 This project can be further improved by:
