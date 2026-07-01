@@ -137,6 +137,31 @@ https://github.com/mdalamin-ai
 
 ---
 
+---
+
+# ⚙️ Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/mdalamin-ai/Tomato-Leaf-Disease-Detection.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Tomato-Leaf-Disease-Detection
+```
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch the Jupyter Notebook or Google Colab notebook to train or evaluate the model.
+---
+
 # 🚀 Future Improvements
 
 This project can be further improved by:
