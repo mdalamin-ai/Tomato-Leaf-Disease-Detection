@@ -107,3 +107,15 @@ Atish Dipankar University of Science and Technology, Bangladesh
 ### GitHub
 
 https://github.com/mdalamin-ai
+
+---
+
+# 🚀 Future Improvements
+
+This project can be further improved by:
+
+- Increasing the dataset size for better generalization.
+- Supporting additional plant species and diseases.
+- Deploying the model on cloud platforms.
+- Developing an Android application for farmers.
+- Improving prediction accuracy using advanced deep learning architectures.
